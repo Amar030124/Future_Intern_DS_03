@@ -1,0 +1,40 @@
+College Event Feedback Analysis - Key Insights
+---------------------------------------------
+
+1. Overall Sentiment Distribution:
+- Positive sentiment: 52% of responses
+- Neutral sentiment: 8% of responses
+- Negative sentiment: 40% of responses
+
+ # Based on sentiment analysis of text feedback
+
+2. Rating Distribution (1-5 scale):
+- Average rating: 2.9/5
+- Most common rating: 1(appears in XX% of responses)
+- Rating breakdown:
+  ★★★★★: 100%
+  ★★★★: 80%
+  ★★★: 60%
+  ★★: 40%
+  ★: 20%
+
+3. Most Common Positive Feedback Themes:
+- "Engaging speaker/presenter" (appeared 26 times)
+- "Well-organized event" (30 mentions)
+- "Useful information/content" (29 mentions)
+
+4. Most Common Suggestions for Improvement:
+- "Longer Q&A sessions" (12 requests)
+- "Better time management" (25 mentions)
+- "More interactive activities" (36 suggestions)
+
+5. Word Cloud Highlights:
+- Most frequent words: [learning, interesting, helpful, boring, long]
+- Indicates participants valued educational content but had concerns about duration
+
+6. Key Recommendations for Future Events:
+1. Maintain the engaging presentation style that received positive feedback
+2. Allocate more time for participant interaction/Q&A
+3. Consider shortening some sessions based on duration feedback
+4. Include more hands-on activities as suggested by multiple participants
+
